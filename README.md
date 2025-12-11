@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsumansaha&label=Profile%20views&color=0e75b6&style=flat" alt="iamsumansaha" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **suman.saha5858@gmail.com**
 
