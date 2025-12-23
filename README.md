@@ -50,10 +50,6 @@ I enjoy analyzing complex datasets, building insightful dashboards, and supporti
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=iamsumansaha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
----
 
 ## 🔝 Top Contributed Repos
 
